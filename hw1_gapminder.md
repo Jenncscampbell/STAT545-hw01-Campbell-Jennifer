@@ -1,5 +1,6 @@
-# R Markdown
-
+# HW01 Gapminder
+JC  
+2017-09-18  
 
 ###Summary of the Gapminder data **for fun**
 
