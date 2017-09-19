@@ -14,4 +14,4 @@
 
 ##### [We are **done** the HW - time for a nap!](https://i.imgur.com/N04YiWp.gifv) #####
 ![alt text](https://techknowtools.files.wordpress.com/2014/08/phd-survivor.png "So soon!")
-![alt text](https://imgs.xkcd.com/comics/stove_ownership.png "Although maybe it's just a phase, like freshman year of college when I realized I could just buy frosting in a can.")
+
