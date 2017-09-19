@@ -20,3 +20,4 @@
 ## Report of progress
 README file: This all went pretty smoothly. I spent some time italicizing and bolding things. I was able to imbed the link easily. The image was a bit harder. I ended up looking at Jenny's example page and changing her code. I think mine was messed up at the front end of the script. 
 
+R Markdown: I had fun playing with the data a bit. I figured out how to do a decent chart. Spent a bit of time cleaning up the code. I had a lot of issues changing the document to a github_documnet, I kept getting an error in fuction. 
