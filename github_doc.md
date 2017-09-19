@@ -1,4 +1,4 @@
-hw01\_gapminderGithubDoc
+HW 01 Gapminder Data
 ================
 JC
 2017-09-18

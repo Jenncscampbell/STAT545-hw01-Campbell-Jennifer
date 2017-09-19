@@ -1,5 +1,5 @@
 ---
-title: "hw01_gapminderGithubDoc"
+title: "HW 01 Gapminder Data"
 author: "JC"
 date: '2017-09-18'
 output: github_document
