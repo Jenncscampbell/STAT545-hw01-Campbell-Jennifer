@@ -18,6 +18,7 @@
 
 
 ## Report of progress
-README file: This all went pretty smoothly. I spent some time italicizing and bolding things. I was able to imbed the link easily. The image was a bit harder. I ended up looking at Jenny's example page and changing her code. I think mine was messed up at the front end of the script. 
+README file: This all went pretty smoothly. I spent some time italicizing and bolding things. I was able to imbed the link easily. The image was a bit harder. I ended up looking at Jenny's example page and changing her code. I think mine was messed up at the front end of the script. Except for creating the title everything was done locally and pushed to my online repository. 
 
 R Markdown: I had fun playing with the data a bit. I figured out how to do a decent chart. Spent a bit of time cleaning up the code. I had a lot of issues changing the document to a github_documnet, I kept getting an error in my yaml. I still have no idea what I was doing wrong. But eventually RStudio crashed so I basically started over on this. The next time I did it though it worked fine so... yeah, I guess all I learned was that I should save way more often then I do.  
+[Look here for the final version](https://github.com/Jenncscampbell/STAT545-hw01-Campbell-Jennifer/blob/master/hw01_gapminder.md)
