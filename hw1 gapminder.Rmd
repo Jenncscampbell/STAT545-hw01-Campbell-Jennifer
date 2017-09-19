@@ -1,0 +1,28 @@
+---
+title: "HW01 Gapminder"
+output: 
+  html_document: 
+    keep_md: yes
+---
+
+
+###Summary of the Gapminder data **for fun**
+
+```{r, echo=FALSE, warning=FALSE}
+library(gapminder)
+library(knitr)
+kable(summary(gapminder))
+
+
+```
+
+
+###Here is a *cool* plot:
+
+
+```{r, fig.width=7, fig.height=5, echo=FALSE}
+plot(lifeExp~ continent, gapminder)
+
+```
+
+![](http://csharpcorner.mindcrackerinc.netdna-cdn.com/UploadFile/rkartikcsharp/definition-of-done-in-agile/Images/Done%20in%20Agile.jpg "Yay!")
